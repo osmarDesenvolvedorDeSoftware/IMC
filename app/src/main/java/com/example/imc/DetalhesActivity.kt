@@ -35,7 +35,7 @@ class DetalhesActivity : AppCompatActivity() {
             val altura = bundle.getDouble("altura")
 
             textPeso.text = "Peso Informado: $peso KG"
-            textAltura.text = "Peso Informado: $altura M"
+            textAltura.text = "Altura Informada: $altura M"
 
             val imc = peso / (altura * altura)
 
