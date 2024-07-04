@@ -15,15 +15,15 @@ Calculadora de IMC é um aplicativo Android desenvolvido para ajudar os usuário
 ## Capturas de Tela
 Aqui estão algumas capturas de tela do aplicativo:
 
-<img src="https://github.com/osmarDesenvolvedorDeSoftware/CalculadoraIMC/blob/master/tela_inicial.jpg" alt="Tela Inicial" width="300"/>
-*Descrição da Tela Inicial*
+*Descrição da Tela Inicial*  
+<img src="https://github.com/osmarDesenvolvedorDeSoftware/IMC/blob/master/tela_inicial.jpg" alt="Tela Inicial" width="300"/>
 
-<img src="https://github.com/osmarDesenvolvedorDeSoftware/CalculadoraIMC/blob/master/tela_resultado.jpg" alt="Tela de Resultado" width="300"/>
-*Descrição da Tela de Resultado*
+*Descrição da Tela de Resultado*  
+<img src="https://github.com/osmarDesenvolvedorDeSoftware/IMC/blob/master/tela_preco.jpg" alt="Tela de Resultado" width="300"/>
 
 ## Instalação
 Para clonar e executar este projeto em sua máquina local, siga estas etapas:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-imc.git
+   git clone https://github.com/osmarDesenvolvedorDeSoftware/IMC.git
